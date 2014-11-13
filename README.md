@@ -1,3 +1,3 @@
-GT-S7500____Gingerbread
+GT-S7500_Gingerbread
 ===========
-Inspiration Rom Sources
+Gradient Status Bar for all Gingerbread ROMs
